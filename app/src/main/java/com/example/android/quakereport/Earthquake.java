@@ -1,5 +1,9 @@
 package com.example.android.quakereport;
 
+import android.os.AsyncTask;
+
+import java.util.List;
+
 /**
  * An {@link Earthquake} object contains information related to a single earthquake.
  */
